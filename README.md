@@ -1,2 +1,1 @@
-martin-stuff
-============
+the templatepangename dokuwiki plugin
